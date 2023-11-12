@@ -208,7 +208,7 @@ Message <b>: {}</b>"""
     CAPTION = """
 📂 <b>File Name</b>: <code>{file_name}</code> 
 
-🤍 </b>Join</b> [𝗔𝗚𝗦 𝗠𝗢𝗗𝗦](https://t.me/Movies_Hub_Og)  
+🤍 </b>Join</b> [AGS MODS](https://t.me/Movies_Hub_Og)  
 """
 
     IMDB_TEMPLATE_TXT = """
